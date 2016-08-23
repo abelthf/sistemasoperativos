@@ -1,4 +1,5 @@
 Comandos y configuraciones de supervivencia en Linux.
+====================================================
 
 Configurar direcciones ip.
 Vi /etc/network/interfaces
